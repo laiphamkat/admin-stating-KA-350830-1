@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_javascript_",
+        "step 3: At Page_home click on hyperlink_form_basic_html --> navigate to Page_form-basic_html",
+        "step 4: Add visual checkpoint at Page_form-basic_html"
+    ]
+}
