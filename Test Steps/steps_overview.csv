@@ -1,16 +1,16 @@
 Flow ID,Test Steps,Flow Priority
-2,"step 1: Navigate to Page_advanced-components_html
-step 2: At Page_advanced-components_html click on hyperlink_form_wizard_html --> navigate to Page_form-wizard_html
-step 3: Add visual checkpoint at Page_form-wizard_html",High
 1,"step 1: Navigate to Page_home
 step 2: At Page_home click on hyperlink_javascript_
 step 3: At Page_home click on hyperlink_form_basic_html --> navigate to Page_form-basic_html
 step 4: Add visual checkpoint at Page_form-basic_html",High
+2,"step 1: Navigate to Page_advanced-components_html
+step 2: At Page_advanced-components_html click on hyperlink_form_wizard_html --> navigate to Page_form-wizard_html
+step 3: Add visual checkpoint at Page_form-wizard_html",High
+3,"step 1: Navigate to Page_html5-editor_html
+step 2: At Page_html5-editor_html click on hyperlink_
+step 3: Add visual checkpoint at Page_html5-editor_html",Medium
 4,"step 1: Navigate to Page_html5-editor_html
 step 2: At Page_html5-editor_html click on p_object
 step 3: At Page_html5-editor_html click on hyperlink_ctrl_b
 step 4: At Page_html5-editor_html click on hyperlink_form_pickers_html --> navigate to Page_form-pickers_html
 step 5: Add visual checkpoint at Page_form-pickers_html",Medium
-3,"step 1: Navigate to Page_html5-editor_html
-step 2: At Page_html5-editor_html click on hyperlink_
-step 3: Add visual checkpoint at Page_html5-editor_html",Medium
