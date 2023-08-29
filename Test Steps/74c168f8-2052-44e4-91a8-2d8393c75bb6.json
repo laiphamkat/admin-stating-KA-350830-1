@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_html5-editor_html",
+        "step 2: At Page_html5-editor_html click on p_object",
+        "step 3: At Page_html5-editor_html click on hyperlink_ctrl_b",
+        "step 4: At Page_html5-editor_html click on hyperlink_form_pickers_html --> navigate to Page_form-pickers_html",
+        "step 5: Add visual checkpoint at Page_form-pickers_html"
+    ]
+}
